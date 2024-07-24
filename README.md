@@ -1,5 +1,3 @@
-# qrCodeGen-NodeJS
-
 # Node.js QR Code Generator
 
 This Node.js application generates QR codes for any given URL or text input. It uses an interactive command-line interface to allow users to specify the size, format, and output directory of the QR code, making it highly customizable and easy to use.
